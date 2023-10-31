@@ -1,2 +1,2 @@
 # dati_gioco
-#cartella cove proverò a salvare i dati del gioco da locale
+cartella dove proverò a salvare i dati del gioco da locale
